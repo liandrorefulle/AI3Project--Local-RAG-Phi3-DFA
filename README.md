@@ -21,7 +21,8 @@ By running entirely on local hardware, this system ensures data privacy and secu
 ## Project Structure
 - `Final_AI3_ipynb.ipynb`: The complete Python implementation of the RAG pipeline.
 - `IEEE3 Paper - AI3 Kitkat.pdf`: The full technical research paper explaining the architecture and evaluation.
-- `DFA_Operations_Manual-1.pdf`: The primary knowledge base used for testing.
+- [`DFA_Operations_Manual-1.pdf`](https://drive.google.com/file/d/1oRW4aojiFUDeIgr8JsN2ptYajtVz7rBK/view?usp=sharing): The primary knowledge base used for testing. Click to download the file.
+
 
 ## Evaluation Results
 The system was evaluated using:
@@ -32,3 +33,4 @@ The system was evaluated using:
 - **Leila Janine Villegas** - Mapúa University
 - **Prince Jeffery Villamil** - Mapúa University
 - **Liandro Refulle** - Mapúa University
+
